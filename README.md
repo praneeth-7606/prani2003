@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **web development**
 
-- 💬 Ask me about **dsa,java,python**
+- 💬 Ask me about **dsa,java,python and some machine learning algorithms**
 
 - 📫 How to reach me **praneethvvsss@gmail.com**
 
